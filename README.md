@@ -8,5 +8,5 @@ I switch on my laptop to code, but end up spending hours on YouTube. Life's good
 
 ## Hit me up?
 [Messenger](http://m.me/sujoy.datta.906)<br/>
-<br/>
+
 [Telegram](https://t.me/sujoyyyy)
