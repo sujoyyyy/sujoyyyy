@@ -5,7 +5,7 @@ Throughout our lifetime, we introduce ourselves to hundreds of new people everyw
 I switch on my laptop to code, but end up spending hours on YouTube. Life's good.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujoyyyy&layout=compact)](https://github.com/sujoyyy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujoyyyy&layout=compact)](https://github.com/sujoyyyy)
 <br/>
 
 ### Hit me up?
