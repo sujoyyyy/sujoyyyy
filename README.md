@@ -12,4 +12,7 @@ I switch on my laptop to code, but end up spending hours on YouTube. Life's good
 [Messenger](http://m.me/sujoy.datta.906)<br/>
 [Telegram](https://t.me/sujoyyyy)
 
+![Sujoy's github stats](https://github-readme-stats.vercel.app/api?username=sujoyyyy&show_icons=true)
+
+
 ![](https://komarev.com/ghpvc/?username=sujoyyyy&color=green)
